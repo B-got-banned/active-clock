@@ -9,8 +9,9 @@ Simply watch time go by with this active clock that shows you that in real time!
 
 ## Live Demo
 Check out the live demo here:
+
 [https://b-got-banned.github.io/active-clock/](https://b-got-banned.github.io/active-clock/)
 
 ---
 
-Made with 🤎 by B-got-banned
+Made with 🤎 by [B-got-banned](https://github.com/B-got-banned)
